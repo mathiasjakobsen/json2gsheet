@@ -15,7 +15,6 @@ const pull = (config, id) =>
   readSheetToJson({ config, id })
     .then(assemble)
     .then(compact)
-    .then(deflat)
     .then(deepSortByKey)
     .then(stringify)
     .then(ensureEOL)
