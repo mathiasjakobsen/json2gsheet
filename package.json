@@ -1,6 +1,6 @@
 {
   "name": "json2gsheet",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Serializes JSON data to Google Sheet, and vice versa",
   "author": "Mathias Lynnerup Jakobsen <mathiasjakobsen@me.com>",
   "license": "MIT",
